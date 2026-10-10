@@ -1,0 +1,306 @@
+{
+  "profile": {
+    "name": "Alazar.A",
+    "title": "Full-Stack Developer & MERN Engineer",
+    "shortBio": "Dedicated Full-Stack Software Engineer specializing in modern MERN architecture, distributed cloud backends, and responsive React web experiences. Passionate about writing scalable TypeScript, high-throughput APIs, and intuitive user interfaces.",
+    "fullBio": "With over 4 years of engineering experience across high-growth startups and modern web solutions, I build end-to-end applications from MongoDB data modeling to interactive React client applications. I focus on clean code architecture, performance optimization, and robust developer tooling.",
+    "avatarUrl": "/src/assets/images/developer_hero_portrait_1791549963661.jpg",
+    "email": "alazar1of1@gmail.com",
+    "phone": "0992837336",
+    "location": "Addis Ababa & Remote Worldwide",
+    "availableForWork": true,
+    "githubUrl": "https://github.com",
+    "linkedinUrl": "https://linkedin.com",
+    "twitterUrl": "https://twitter.com",
+    "resumeUrl": "#resume",
+    "yearsOfExperience": 4,
+    "completedProjects": 28,
+    "happyClients": 19
+  },
+  "projects": [
+    {
+      "_id": "proj_1",
+      "title": "Mernify - Cloud E-Commerce & Analytics Platform",
+      "slug": "mernify-ecommerce-analytics",
+      "category": "MERN Stack",
+      "description": "Enterprise multi-tenant retail analytics and e-commerce portal built with MongoDB Atlas, Express, React, and Node.js. Features real-time order tracking, payment processing, and dashboard telemetry.",
+      "longDescription": "Mernify is a comprehensive full-stack commerce engine built to support high-concurrency order processing and deep catalog analytics. Engineered with MongoDB aggregation pipelines for instant sales reporting, dynamic stock monitoring, and secure role-based access control.",
+      "imageUrl": "/src/assets/images/project_ecommerce_platform_1791549974827.jpg",
+      "technologies": [
+        "MongoDB Atlas",
+        "Express.js",
+        "React 19",
+        "Node.js",
+        "Tailwind CSS",
+        "JWT"
+      ],
+      "demoUrl": "https://github.com",
+      "githubUrl": "https://github.com",
+      "featured": true,
+      "completionDate": "2026",
+      "metrics": "$185k+ processed volume · sub-120ms API latency",
+      "order": 1
+    },
+    {
+      "_id": "proj_2",
+      "title": "DevFlow - Collaborative Sprint Workspace",
+      "slug": "devflow-collaborative-workspace",
+      "category": "Full Stack",
+      "description": "Kanban sprint tracking and asynchronous team communication platform for software squads with real-time websocket task synchronization and burndown charts.",
+      "longDescription": "Designed to reduce project bottlenecks, DevFlow integrates sprint planning, pull request linking, and team workload balancing into a single streamlined workspace. Backed by MongoDB for flexible schema updates and lightning-fast nested task queries.",
+      "imageUrl": "/src/assets/images/project_saas_workspace_1791549984845.jpg",
+      "technologies": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Socket.io",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "demoUrl": "https://github.com",
+      "githubUrl": "https://github.com",
+      "featured": true,
+      "completionDate": "2025",
+      "metrics": "99.98% uptime · 4,200 active weekly users",
+      "order": 2
+    },
+    {
+      "_id": "proj_3",
+      "title": "PulseAPI - Microservices Gateway & Rate Limiter",
+      "slug": "pulseapi-microservices-gateway",
+      "category": "Node & APIs",
+      "description": "High-throughput reverse proxy and API token metering gateway built on Node.js and MongoDB cache indexes with token bucket traffic throttling.",
+      "longDescription": "PulseAPI handles distributed authentication, route routing, and usage quotas across 14 decoupled microservices. Built with extensive error telemetry, automated health probes, and structured JSON logging.",
+      "imageUrl": "/src/assets/images/project_ecommerce_platform_1791549974827.jpg",
+      "technologies": [
+        "Node.js",
+        "Express",
+        "MongoDB Atlas",
+        "Redis",
+        "Docker"
+      ],
+      "demoUrl": "https://github.com",
+      "githubUrl": "https://github.com",
+      "featured": false,
+      "completionDate": "2025",
+      "metrics": "15,000 requests/sec peak capacity",
+      "order": 3
+    },
+    {
+      "title": "test1",
+      "slug": "project-1791581605480",
+      "category": "MERN Stack",
+      "description": "short boy",
+      "longDescription": "test test ",
+      "imageUrl": "file:///C:/Users/this%20pc/Downloads/hashan/src/assets/images/developer_hero_portrait_1791549963661.jpg",
+      "technologies": [
+        "MongoDB",
+        "Express",
+        "React",
+        "Node.js"
+      ],
+      "demoUrl": "file:///C:/Users/this%20pc/Downloads/hashan/src/assets/images/developer_hero_portrait_1791549963661.jpg",
+      "githubUrl": "https://github.com/Alazar1of1",
+      "featured": true,
+      "completionDate": "2026",
+      "metrics": "253",
+      "order": 4,
+      "_id": "proj_1791581605677"
+    }
+  ],
+  "experiences": [
+    {
+      "_id": "exp_1",
+      "role": "Senior Full-Stack Engineer",
+      "company": "Apex Cloud Solutions",
+      "period": "2024 - Present",
+      "location": "Remote / Global",
+      "description": "Leading architecture and implementation of scalable MERN stack web applications and microservice backends serving enterprise clients.",
+      "achievements": [
+        "Architected distributed MongoDB Atlas cluster with automatic replica set sharding, reducing query times by 42%.",
+        "Engineered responsive React web interfaces with modular design systems and zero-latency state synchronization.",
+        "Mentored 6 junior engineers on TypeScript best practices, CI/CD pipeline deployment, and database indexing."
+      ],
+      "link": "https://apexcloud.dev",
+      "technologies": [
+        "MongoDB",
+        "Express",
+        "React",
+        "Node.js",
+        "TypeScript",
+        "Docker"
+      ],
+      "order": 1
+    },
+    {
+      "_id": "exp_2",
+      "role": "Full-Stack Developer",
+      "company": "Nexus Digital Studio",
+      "period": "2022 - 2024",
+      "location": "Colombo, Sri Lanka",
+      "description": "Developed custom SaaS web products, client portals, and e-commerce platforms using the React and Node.js ecosystem.",
+      "achievements": [
+        "Delivered 14 production web applications with 100% on-time milestone completions.",
+        "Refactored legacy REST APIs into optimized Express middleware with comprehensive schema validation.",
+        "Constructed dynamic contact ingestion pipelines and automated email notification systems."
+      ],
+      "link": "https://nexusdigital.io",
+      "technologies": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Tailwind CSS",
+        "Redux"
+      ],
+      "order": 2
+    },
+    {
+      "_id": "exp_3",
+      "role": "Junior Software Engineer",
+      "company": "Synergy Labs",
+      "period": "2021 - 2022",
+      "location": "Colombo, Sri Lanka",
+      "description": "Collaborated on frontend interface components, responsive layout debugging, and backend CRUD API development.",
+      "achievements": [
+        "Built responsive UI component libraries adhering to WCAG accessibility guidelines.",
+        "Created unit and integration tests achieving 88% test coverage across primary endpoints."
+      ],
+      "link": "https://synergylabs.tech",
+      "technologies": [
+        "JavaScript",
+        "React",
+        "Express",
+        "MongoDB",
+        "Git"
+      ],
+      "order": 3
+    }
+  ],
+  "skills": [
+    {
+      "_id": "sk_1",
+      "name": "MongoDB & MongoDB Atlas",
+      "category": "Database",
+      "proficiency": 95,
+      "yearsOfExp": "4+ yrs",
+      "link": "https://www.mongodb.com/docs/atlas/",
+      "order": 1
+    },
+    {
+      "_id": "sk_2",
+      "name": "React.js & React 19",
+      "category": "Frontend",
+      "proficiency": 96,
+      "yearsOfExp": "4+ yrs",
+      "link": "https://react.dev",
+      "order": 2
+    },
+    {
+      "_id": "sk_3",
+      "name": "Node.js & Express.js",
+      "category": "Backend",
+      "proficiency": 94,
+      "yearsOfExp": "4+ yrs",
+      "link": "https://nodejs.org",
+      "order": 3
+    },
+    {
+      "_id": "sk_4",
+      "name": "TypeScript",
+      "category": "Frontend",
+      "proficiency": 92,
+      "yearsOfExp": "3+ yrs",
+      "link": "https://www.typescriptlang.org",
+      "order": 4
+    },
+    {
+      "_id": "sk_5",
+      "name": "Tailwind CSS & Modern UI",
+      "category": "Frontend",
+      "proficiency": 95,
+      "yearsOfExp": "4+ yrs",
+      "link": "https://tailwindcss.com",
+      "order": 5
+    },
+    {
+      "_id": "sk_6",
+      "name": "RESTful APIs & GraphQL",
+      "category": "Backend",
+      "proficiency": 90,
+      "yearsOfExp": "4+ yrs",
+      "link": "https://restfulapi.net",
+      "order": 6
+    },
+    {
+      "_id": "sk_7",
+      "name": "Docker & Containerization",
+      "category": "Cloud & DevOps",
+      "proficiency": 84,
+      "yearsOfExp": "2+ yrs",
+      "link": "https://www.docker.com",
+      "order": 7
+    },
+    {
+      "_id": "sk_8",
+      "name": "Git & GitHub CI/CD",
+      "category": "Tools",
+      "proficiency": 92,
+      "yearsOfExp": "4+ yrs",
+      "link": "https://github.com",
+      "order": 8
+    }
+  ],
+  "certifications": [
+    {
+      "_id": "cert_1",
+      "title": "MongoDB Certified Associate Developer",
+      "issuer": "MongoDB University",
+      "issueDate": "2024",
+      "credentialId": "MDB-DEV-892401",
+      "link": "https://learn.mongodb.com",
+      "badgeUrl": "/src/assets/images/certificate_badge_cloud_1791549994768.jpg",
+      "order": 1
+    },
+    {
+      "_id": "cert_2",
+      "title": "Meta Certified Full-Stack Developer",
+      "issuer": "Meta & Coursera",
+      "issueDate": "2023",
+      "credentialId": "META-FS-551092",
+      "link": "https://www.coursera.org",
+      "badgeUrl": "/src/assets/images/certificate_badge_cloud_1791549994768.jpg",
+      "order": 2
+    },
+    {
+      "_id": "cert_3",
+      "title": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "issueDate": "2023",
+      "credentialId": "AWS-CCP-773190",
+      "link": "https://aws.amazon.com/certification/",
+      "badgeUrl": "/src/assets/images/certificate_badge_cloud_1791549994768.jpg",
+      "order": 3
+    }
+  ],
+  "messages": [
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "subject": "MERN Project Inquiry",
+      "message": "Hello Hashan, love your portfolio!",
+      "_id": "msg_1791550612323",
+      "createdAt": "2026-10-09T12:56:52.323Z",
+      "read": false
+    },
+    {
+      "_id": "msg_1",
+      "name": "Sarah Jenkins",
+      "email": "sarah.j@techventures.co",
+      "subject": "Senior Full-Stack Consultant Inquiry",
+      "message": "Hi Hashan, we loved your MERN portfolio and recent projects. We are currently scouting for a senior engineer to spearhead our upcoming SaaS platform launch. Would love to schedule a 20-min introductory sync!",
+      "createdAt": "2026-10-09T07:56:36.007Z",
+      "read": false
+    }
+  ],
+  "atlasUri": ""
+}
