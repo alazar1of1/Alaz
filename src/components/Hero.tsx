@@ -22,7 +22,7 @@ export const Hero: React.FC<HeroProps> = ({ profile }) => {
 
   const heroImageSrc = imgError
     ? '/src/assets/images/developer_hero_portrait_1791549963661.jpg'
-    : profile.avatarUrl || '/src/assets/images/developer_hero_portrait_1791549963661.jpg';
+    : profile.avatarUrl || 'https://res.cloudinary.com/pzoad4gu/image/upload/v1791791935/main-sample.png';
 
   return (
     <section id="about" className="relative pt-12 pb-16 md:pt-20 md:pb-24 overflow-hidden">
